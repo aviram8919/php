@@ -8,7 +8,7 @@ the correct data which is given at register page.
 * [Setup](#setup)
 
 ## General info
-This project fetch the data from phpmyadim database. The project is made by using basic concepts of mysql PHP CSS and HTML and using mysql.
+This project store and fetch the data from phpmyadim database. The store value is checked with all the constraints using php and the stored in database using mysql.Login page fetched value from the database if the value matched then it directly take you to welcome page all the constraints are checked using PHP.
 	
 ## Technologies
 Project is created with:
