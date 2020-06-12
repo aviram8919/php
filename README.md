@@ -18,7 +18,7 @@ Project is created with:
 * CSS
 
 ## Setup
-To run this project download the project and in connectDatabase.php page add hte values according to your database then run the register.php 
+To run this project download the project and in ConnectToDatabase.php page add hte values according to your database then run the register.php 
 page on your localhost.Fill all the form and click on register then go to Login.php page and try to login with the same values with which you
 have register.
 
